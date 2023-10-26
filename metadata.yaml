@@ -1,0 +1,33 @@
+_repo: Popular-lessons-in-astronomy_71943
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grund, Francis J. (Francis Joseph)
+    aliases:
+    - Grund, Francis Joseph
+    - Grund, Francis P.
+    - Grund, Franz Joseph
+    birthdate: 1804
+    deathdate: 1863
+    gutenberg_agent_id: '55239'
+    url: http://www.gutenberg.org/2009/agents/55239
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Grund
+description: ''
+gutenberg_issued: '2023-10-23'
+identifiers:
+  gutenberg: '71943'
+language: en
+pgterms:marc904: https://archive.org/details/popularlessonsin00grun/page/n7/mode/2up
+pgterms:marc905: 20221027162259grund
+pgterms:marc906: '1833'
+pgterms:marc907: US
+production_note: Bob Taylor, The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bCarter, Hendee and Co., $c1833.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Popular lessons in astronomy
+url: http://www.gutenberg.org/ebooks/71943
